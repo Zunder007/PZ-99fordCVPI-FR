@@ -1,0 +1,25 @@
+IG_UI_FR = {
+	IGUI_VehicleName99fordCVPI = "'99 Ford Crown Victoria Police Interceptor",
+	IGUI_VehicleName99fordCVPIunmarked = "'99 Ford Crown Victoria Non Sérigraphiée",
+
+	IGUI_VehicleName92fordCVPI2 = "'92 Ford Crown Victoria Police Interceptor",
+	IGUI_VehicleName92fordCVPI2ksp = "'92 Ford Crown Victoria Police d'état Interceptor",
+	IGUI_VehicleName92fordCVPItaxi = "'92 Ford Crown Victoria Taxi",
+
+	IGUI_VehiclePartCVPI99BumperFront = "Pare-chocs avant",
+	IGUI_VehiclePartCVPI99BumperRear = "Pare-chocs arrière",
+	IGUI_VehiclePartCVPI99Barrier = "Grillage intérieur",
+	IGUI_VehiclePartCVPI99SpareTire = "Pneu de secours",
+
+	IGUI_VehiclePartCVPI99WindshieldArmor = "Blindage de Pare-brise",
+	IGUI_VehiclePartCVPI99WindshieldRearArmor = "Blindage de Pare-brise arrière",
+	IGUI_VehiclePartCVPI99WindowFrontLeftArmor = "Blindage de Vitre avant gauche",
+	IGUI_VehiclePartCVPI99WindowFrontRightArmor = "Blindage de Vitre avant droite",
+	IGUI_VehiclePartCVPI99WindowRearLeftArmor = "Blindage de Vitre arrière gauche",
+	IGUI_VehiclePartCVPI99WindowRearRightArmor = "Blindage de Vitre arrière droite",
+
+	IGUI_VehiclePartCVPI99Trunk = "Coffre",
+	IGUI_VehiclePartCVPI99Gunrack = "Porte-armes",
+
+	IGUI_CraftCategory_CVPI99 = "'99 Ford Crown Victoria Police Interceptor",
+}
