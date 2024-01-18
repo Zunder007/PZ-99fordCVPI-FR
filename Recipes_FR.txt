@@ -1,0 +1,13 @@
+Recipes_FR = {
+	Recipe_Make_CVPI92_Front_Side_Window = "Fabriquer Vitre latérale avant",
+	Recipe_Make_CVPI92_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_CVPI92_Push_Bumper = "Fabriquer Pare-chocs d'interception",
+	Recipe_Make_CVPI92_Push_Bumper_Mk2 = "Fabriquer Pare-chocs d'interception Mk2",
+	Recipe_Make_CVPI92_Rear_Side_Window = "Fabriquer Vitre latérale arrière",
+	Recipe_Make_CVPI92_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_CVPI92_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Make_CVPI92_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_CVPI92_Tire = "Fabriquer Pneu",
+	Recipe_Make_CVPI92_Windshield = "Fabriquer Pare-brise",
+	Recipe_Make_CVPI92_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+}
