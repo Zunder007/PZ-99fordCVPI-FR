@@ -9,4 +9,9 @@ Recipes_FR = {
 	Recipe_Make_CVPI99_Tire = "Fabriquer Pneu",
 	Recipe_Make_CVPI99_Windshield = "Fabriquer Pare-brise",
 	Recipe_Make_CVPI99_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
+
+	Recipe_Dismantle_CVPI_99_Armor = "Démonter Blindage",
+	Recipe_Dismantle_CVPI_99_Door = "Démonter Portière",
+	Recipe_Dismantle_CVPI_99_Lid = "Démonter Coffre",
+	Recipe_Dismantle_CVPI_99_Seat = "Démonter Siège",
 }
