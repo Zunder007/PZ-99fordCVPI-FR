@@ -14,4 +14,15 @@ Recipes_FR = {
 	Recipe_Dismantle_CVPI_99_Door = "Démonter Portière",
 	Recipe_Dismantle_CVPI_99_Lid = "Démonter Coffre",
 	Recipe_Dismantle_CVPI_99_Seat = "Démonter Siège",
+
+	Recipe_Dismantle_99_Ford_CVPI_Armor = "Démonter Blindage",
+	Recipe_Dismantle_99_Ford_CVPI_Door = "Démonter Portière",
+	Recipe_Dismantle_99_Ford_CVPI_Lid = "Démonter Coffre",
+	Recipe_Dismantle_99_Ford_CVPI_Seat = "Démonter Siège",
+	Recipe_Make_99_Ford_CVPI_Cab_Barrier = "Fabriquer Grillage intérieur",
+	Recipe_Make_99_Ford_CVPI_Push_Bumper = "Fabriquer Pare-chocs d'interception",
+	Recipe_Make_Ford_CVPI_Front_Window_Armor = "Fabriquer Blindage de Vitre avant",
+	Recipe_Make_Ford_CVPI_Rear_Window_Armor = "Fabriquer Blindage de Vitre arrière",
+	Recipe_Make_Ford_CVPI_Rear_Windshield_Armor = "Fabriquer Blindage de Pare-brise arrière",
+	Recipe_Make_Ford_CVPI_Windshield_Armor = "Fabriquer Blindage de Pare-brise",
 }
